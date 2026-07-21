@@ -34,8 +34,7 @@ Evaluated on the NYU Depth V2 validation split:
 Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/monocular-depth-estimation.git](https://github.com/yourusername/monocular-depth-estimation.git)
-cd monocular-depth-estimation
+git clone https://github.com/Parth-Sharma-Dev/mde-pytorch-iitj.git
 
 ```
 
@@ -64,14 +63,12 @@ data/nyu_depth_v2/
 
 ### Evaluation & Inference
 
-To evaluate the model and automatically extract qualitative visualization samples (RGB, Ground Truth, and Predicted Depth maps):
+To evaluate the model:
 
 ```bash
 python eval.py
 
 ```
-
-Visual outputs will be saved as `.png` files in the root directory using the `inferno_r` colormap.
 
 ### Training
 
