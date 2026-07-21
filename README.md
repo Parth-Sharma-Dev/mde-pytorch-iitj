@@ -87,5 +87,5 @@ python train.py --batch_size 8 --epochs 170
 ## Contributors
 
 * **Parth Sharma** - Backend & AI-ML Engineering
-* **Krishna Acharya**
+* **Krishna Acharya** - AI-ML Engineering
 * **Supervised by:** Prof. Avinash Sharma (IIT Jodhpur)
